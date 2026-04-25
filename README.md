@@ -1,9 +1,6 @@
 ---
 sdk: docker
-title: Resume Rank Checker Pro
-emoji: 📄
-colorFrom: blue
-colorTo: indigo
+title: Resume Rank Checker
 app_port: 7860
 ---
 
@@ -17,4 +14,4 @@ Upload any resume PDF + select a company → get instant 0-100 score with detail
 • Accurate CGPA detection  
 • Personalized tips
 
-Just go to `/docs` to test the API.
+Just go to `` to test the API.
