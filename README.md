@@ -1,13 +1,6 @@
----
-sdk: docker
-title: Resume Rank Checker Pro
-emoji: 📄
-colorFrom: blue
-colorTo: indigo
-app_port: 7860
----
 
-# Resume Rank Checker Pro
+
+# Resume Rank Checker 
 
 A FastAPI-based resume scoring API that analyzes how well a resume matches a job description. Hosted on Hugging Face Spaces.
 
