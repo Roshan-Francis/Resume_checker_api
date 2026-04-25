@@ -1,0 +1,28 @@
+{
+  "tech_synonyms": {
+    "machine learning": ["pytorch", "tensorflow", "jax", "scikit-learn", "sklearn", "deep learning", "neural networks", "cnn", "rnn", "transformer", "ml", "ai", "xgboost", "lightgbm", "multimodal"],
+    "ml": ["machine learning", "pytorch", "tensorflow", "scikit-learn", "deep learning", "neural network", "keras"],
+    "ai": ["machine learning", "deep learning", "llm", "nlp", "computer vision", "neural network", "reinforcement learning", "multimodal transformer"],
+    "deep learning": ["pytorch", "tensorflow", "keras", "cnn", "rnn", "lstm", "transformer", "bert", "neural network"],
+    "data science": ["pandas", "numpy", "matplotlib", "jupyter", "statistics", "data analysis", "machine learning"],
+    "nlp": ["bert", "gpt", "llm", "spacy", "nltk", "transformer"],
+    "spring boot": ["springboot", "spring", "java", "microservices"],
+    "microservices": ["docker", "kubernetes", "rest api", "spring boot", "grpc", "kafka"],
+    "grpc": ["gprc", "microservices"],
+    "kafka": ["streaming", "microservices"],
+    "raft": ["consensus", "distributed"],
+    "spring": ["spring boot", "java"],
+    "java": ["spring boot", "spring"],
+    "python": ["pytorch", "django", "flask"],
+    "opencv": ["computer vision", "image processing"],
+    "data structures": ["arrays", "linked list", "tree", "graph", "heap", "dsa", "trie", "red black tree"],
+    "algorithms": ["sorting", "dynamic programming", "dp", "greedy", "graph algorithms", "dsa"]
+  },
+
+  "exp_verbs": ["implemented", "developed", "built", "designed", "deployed", "engineered", "architected", "scaled", "optimised", "optimized", "led", "managed", "delivered", "maintained", "refactored", "integrated", "automated", "migrated", "published", "researched", "proposed", "trained", "fine-tuned", "pre-trained", "created", "developed and trained", "won"],
+  "exp_context": ["intern", "internship", "industrial training", "work experience", "employed", "company", "thesis", "b.tech project", "m.tech project", "research intern", "pre-doctoral", "live project", "client project", "co-op", "placement", "on-site", "full-time"],
+  "exp_duration_patterns": ["\\d+\\s*(months?|years?)\\s*(of\\s*)?(experience|exp|internship|work)", "(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*[\\s,]+\\d{4}\\s*[-–to]+\\s*(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec|present|current)", "\\d{4}\\s*[-–]\\s*(\\d{4}|present|current|now)"],
+  "ach_high": ["hackathon", "smart india hackathon", "sih", "icpc", "acm icpc", "winner", "1st place", "2nd place", "finalist", "ranked", "research paper", "cvpr", "icml", "isbi", "icpr", "best paper", "ppo", "pre placement offer", "institute rank", "global rank", "kickstart", "codechef", "codeforces", "topcoder", "research excellence award", "sura", "kalpana chawla award"],
+  "ach_mid": ["leetcode", "hackerrank", "codechef", "codeforces", "topcoder", "aws certified", "google certified", "microsoft certified", "azure certified", "nptel", "open source", "github contribution", "pull request", "top 10", "top 3", "rating", "max rating"],
+  "ach_low": ["datathon", "ideathon", "buildathon", "techfest", "symposium", "national level", "state level", "inter-college", "certified", "coursera", "udemy", "scholarship"]
+}
